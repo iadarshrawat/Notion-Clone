@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700748992035,
+      "tag": "0000_unique_the_fallen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700753392299,
+      "tag": "0001_optimal_wendell_rand",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700880946839,
+      "tag": "0002_skinny_scream",
+      "breakpoints": true
+    }
+  ]
+}
